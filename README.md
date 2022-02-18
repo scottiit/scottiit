@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @scottiit
+- 👀 I’m interested in full stack development.
+- 🌱 I’m currently learning html, css and javascript.
